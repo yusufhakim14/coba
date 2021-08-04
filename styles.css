@@ -63,6 +63,19 @@ footer {
 
 }
 
+#aplikasi {
+    background-image: url(https://raw.githubusercontent.com/StartBootstrap/startbootstrap-agency/master/dist/assets/img/map-image.png);
+    background-color: #212529;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+
+}
+
+#aplikasi h2 {
+    color: white;
+}
+
 
 
 
